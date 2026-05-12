@@ -1,0 +1,13 @@
+name = "VaultLootBeams"
+filename = "VaultLootBeams-1.18.2-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a5726de6fd297649163c583ededa6f1f12312935"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7919752
+project-id = 1313069
