@@ -7338,47 +7338,6 @@
       },
       {
         "type": "specialized",
-        "id": "Summon_Eternal",
-        "name": "Summon Eternal",
-        "specializations": [
-          {
-            "type": "tiered",
-            "id": "Summon_Eternal_Base",
-            "name": "Summon Eternal",
-            "maxLearnableTier": 2,
-            "tiers": [
-              {
-                "type": "summon_eternal",
-                "numberOfEternals": 1,
-                "despawnTime": 1200,
-                "ancientChance": 0.0,
-                "vaultOnly": true,
-                "manaCost": 50.0,
-                "learnPointCost": 5,
-                "regretPointCost": 1,
-                "cooldownTicks": 2400,
-                "unlockLevel": 0,
-                "id": "eternal_1"
-              },
-              {
-                "type": "summon_eternal",
-                "numberOfEternals": 1,
-                "despawnTime": 1800,
-                "ancientChance": 0.0,
-                "vaultOnly": true,
-                "manaCost": 50.0,
-                "learnPointCost": 5,
-                "regretPointCost": 1,
-                "cooldownTicks": 2400,
-                "unlockLevel": 0,
-                "id": "eternal_2"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "type": "specialized",
         "id": "Empower",
         "name": "Empower",
         "maxLearnableTier": 8,

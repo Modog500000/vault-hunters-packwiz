@@ -190,9 +190,7 @@
       "the_vault:jack_poison",
       "the_vault:grinch",
 
-      "the_vault:vault_yellow_gummy_soldier",
-
-      "rottencreatures:undead_miner"
+      "the_vault:vault_yellow_gummy_soldier"
       
     ],
     "the_vault:assassin": [
@@ -288,8 +286,7 @@
       "auxiliaryblocks:gingerbread_man",
       "auxiliaryblocks:gingerbread_man_small",
 
-      "auxiliaryblocks:snowdood",
-      "rottencreatures:mummy"
+      "auxiliaryblocks:snowdood"
     ],
     "the_vault:tank": [
       "the_vault:t3_zombie",
@@ -306,10 +303,7 @@
       "the_vault:plastic_tank",
       "the_vault:plastic_villager_tank",
       "the_vault:craftenstein",
-      "the_vault:yeti",
-
-      "rottencreatures:dead_beard",
-      "rottencreatures:glacial_hunter"
+      "the_vault:yeti"
     ],
     "the_vault:winterwalker": [
       "the_vault:winterwalker_t0",

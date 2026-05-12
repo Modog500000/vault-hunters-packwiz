@@ -167,23 +167,6 @@
         }
       ]
     },
-    "the_vault:elite_troll": {
-      "elite": {
-        "entityName": "alexsmobs:cockroach",
-        "entityNbt": "{Maracas:1b}"
-      },
-
-      "min": 8,
-      "max": 8,
-      "minions": [
-        {
-          "value": {
-            "entityName": "alexsmobs:cockroach"
-          },
-          "weight": 1
-        }
-      ]
-    },
 	"the_vault:elite_gingerbread": {
       "elite": {
         "entityName": "auxiliaryblocks:gingerbread_man_giant"

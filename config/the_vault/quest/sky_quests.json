@@ -1220,13 +1220,13 @@
             "color": "$text"
           },
           {
-            "text": "\n\nCraft a Chromatic Iron Pick",
+            "text": "\n\nCraft a Chromatic Iron Tool",
             "color": "$heal"
           }
         ]
       },
       "icon": "the_vault:gui/quests/tool",
-      "targetId": "the_vault:tool/pick/chromatic_iron_ingot",
+      "targetId": "the_vault:tool/",
       "targetProgress": 1.0,
       "unlockedBy": "tool_station",
       "reward": {

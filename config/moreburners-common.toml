@@ -36,3 +36,16 @@
 		#The maximum heat value the electric burner can reach after upgraded.
 		upgraded_max_heat = 400.0
 
+	#Settings for heat converter's parameters
+	[parameters.heat_converter]
+		#The minimum temperature required to become seething. (super heating)
+		seething_temp = 1200.0
+		#The minimum temperature required to become kindled. (heating)
+		kindled_temp = 450.0
+		#The minimum temperature required to become fading. (heating)
+		fading_temp = 400.0
+		#The minimum temperature required to become smouldering.
+		smouldering_temp = 200.0
+		#The amount of temperature decreased per tick.
+		temp_cost = 2.0
+

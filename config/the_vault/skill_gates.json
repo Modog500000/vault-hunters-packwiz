@@ -95,6 +95,21 @@
         "ignoreArrow": true,
         "lockedBy": []
       },
+      "Industrial Mob Farm": {
+        "dependsOn": [{ "type": "constant", "id": "Industrial Foregoing" }],
+        "ignoreArrow": true,
+        "lockedBy": []
+      },
+      "Barrels": {
+        "dependsOn": [{ "type": "constant", "id": "Sophisticated Storage" }],
+        "ignoreArrow": true,
+        "lockedBy": []
+      },
+      "Sophisticated Interface": {
+        "dependsOn": [{ "type": "constant", "id": "Sophisticated Storage" }],
+        "ignoreArrow": true,
+        "lockedBy": []
+      },
       "Mekanism QIO": {
         "dependsOn": [{ "type": "constant", "id": "Mekanism" }],
         "ignoreArrow": true,
@@ -147,17 +162,10 @@
       },
       "Automatic Genius": {
         "dependsOn": [
-          { "type": "constant", "id": "Colossal Chests" },
-          { "type": "constant", "id": "Simple Storage Network" },
-          { "type": "constant", "id": "Drawers" },
+          { "type": "constant", "id": "Barrels" },
           { "type": "constant", "id": "Mekanism QIO" },
           { "type": "constant", "id": "Refined Storage" },
           { "type": "constant", "id": "Applied Energistics" },
-          { "type": "constant", "id": "Double Pouches" },
-          { "type": "constant", "id": "Belts" },
-          { "type": "constant", "id": "Backpacks" },
-          { "type": "constant", "id": "Big Backpacks" },
-          { "type": "constant", "id": "Junk Management" },
           { "type": "constant", "id": "Iron Generators" },
           { "type": "constant", "id": "Powah" },
           { "type": "constant", "id": "Flux Networks" },
@@ -166,7 +174,6 @@
           { "type": "constant", "id": "Botania Flux Field" },
           { "type": "constant", "id": "Xnet" },
           { "type": "constant", "id": "Modular Routers" },
-          { "type": "constant", "id": "Pipez" },
           { "type": "constant", "id": "Iron Furnaces" },
           { "type": "constant", "id": "Dark Utilities" },
           { "type": "constant", "id": "Botania" },
@@ -180,7 +187,7 @@
           { "type": "constant", "id": "Vault Compass" },
           { "type": "constant", "id": "Altar Automation" },
           { "type": "constant", "id": "Building Gadgets" },
-          { "type": "constant", "id": "Weirding Gadgets" },
+          { "type": "constant", "id": "Chunk Loading" },
           { "type": "constant", "id": "Mining Gadgets" },
           { "type": "constant", "id": "Digital Miner" },
           { "type": "constant", "id": "Easy Villagers" },
@@ -193,8 +200,13 @@
           { "type": "constant", "id": "Potions" },
           { "type": "constant", "id": "Mixtures" },
           { "type": "constant", "id": "Brews" },
-          { "type": "constant", "id": "Entangled" },
-          { "type": "constant", "id": "Laser Bridges" }
+          { "type": "constant", "id": "Sophisticated Storage" },
+          { "type": "constant", "id": "Sophisticated Interface" },
+          { "type": "constant", "id": "Laser IO" },
+          { "type": "constant", "id": "Pneumaticraft" },
+          { "type": "constant", "id": "Industrial Foregoing" },    
+          { "type": "constant", "id": "Industrial Mob Farm" },         
+          { "type": "constant", "id": "Entangled" }
         ],
         "ignoreArrow": true,
         "lockedBy": []
