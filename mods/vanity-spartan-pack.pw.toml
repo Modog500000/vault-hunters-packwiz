@@ -3,8 +3,8 @@ filename = "vanity_spartan_V1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "5c5243e4d794204a97dd39384f453a707b396712"
+hash-format = "sha256"
+hash = "b3bffa68026795a7e2ce8484fa20dabad9b0bcfcd39c88de1e8f68c62bbcb3cd"
 mode = "metadata:curseforge"
 
 [update]

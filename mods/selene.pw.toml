@@ -3,8 +3,8 @@ filename = "selene-1.18.2-1.17.17.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "5f1aa7adeb75e99d20a3e187d099d987dc42ea9d"
+hash-format = "sha256"
+hash = "b06590edf24f91d655bb59f585950c11ef8c72c798b7d40dc6a4c16fbf2603a3"
 mode = "metadata:curseforge"
 
 [update]

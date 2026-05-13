@@ -3,8 +3,8 @@ filename = "craftingtweaks-forge-1.18.2-14.0.9.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b63536cc1df0335b51067951f583c336bdb04413"
+hash-format = "sha256"
+hash = "6964725f575d7f56d9c674bacb8fd8c613662a0f50589c40e6d4865ff1ac81bf"
 mode = "metadata:curseforge"
 
 [update]

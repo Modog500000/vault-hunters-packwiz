@@ -3,8 +3,8 @@ filename = "ChunkyMcChunkFace-1.18.2-0.3.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "240740770b8667c191f8e7241f6b8fa9ac0c0d2e"
+hash-format = "sha256"
+hash = "405cf0df776637584c81eb859077bb645d0ffb615124f4ad41b992a7b4534887"
 mode = "metadata:curseforge"
 
 [update]

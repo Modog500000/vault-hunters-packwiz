@@ -3,8 +3,8 @@ filename = "thermal_dynamics-1.18.2-9.2.2.19.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "753f95e4f9880a513440ed544d393bb2829ad1cd"
+hash-format = "sha256"
+hash = "f6f188a6c2fc07c8c4107a6615d920074160016452bce9a4be5cdd0d041b8243"
 mode = "metadata:curseforge"
 
 [update]

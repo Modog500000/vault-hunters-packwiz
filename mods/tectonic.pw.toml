@@ -3,8 +3,8 @@ filename = "tectonic-forge-1.18-2.3.5a.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "59e24cf51057f05e1af592d8034342de501500b3"
+hash-format = "sha256"
+hash = "85817cdaa0fbac6db2484337a947129eeb26c2e6700909ea4862037982699973"
 mode = "metadata:curseforge"
 
 [update]

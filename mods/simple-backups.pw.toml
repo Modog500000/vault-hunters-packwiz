@@ -3,8 +3,8 @@ filename = "SimpleBackups-1.18.2-1.1.17.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "63c0b37700f91d650b0ee76af96a5fa0c173ca66"
+hash-format = "sha256"
+hash = "add5266da5d78c227c5e72288b03368dca165a4e48ab99be2c5843e76c0fc32b"
 mode = "metadata:curseforge"
 
 [update]

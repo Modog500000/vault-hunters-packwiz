@@ -3,8 +3,8 @@ filename = "polymorph-forge-1.18.2-0.50.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "53b1a35159151e555453b49ea16b678d75392b5c"
+hash-format = "sha256"
+hash = "9ae8862912415b4c35b0b37d71ae67acc56007fdb22024c08348d9a62ff4b903"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "ReAuth-1.18-Forge-4.0.7.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d241956ea69fa8af915a2bcd709db73da58e1eea"
+hash-format = "sha256"
+hash = "83c6481471bf521014148de78502440672a6b17d0862938f7365b31d90370030"
 mode = "metadata:curseforge"
 
 [update]

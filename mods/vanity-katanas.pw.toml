@@ -3,8 +3,8 @@ filename = "Farcr's_Katanas_V1.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "adf5b2f333988dd014ea889aef20c27e952f7631"
+hash-format = "sha256"
+hash = "f8b9b041c9e9f2b25a883dea0b3825513a6fb957da8b6d14536acf015a4c9551"
 mode = "metadata:curseforge"
 
 [update]

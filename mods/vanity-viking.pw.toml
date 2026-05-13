@@ -3,8 +3,8 @@ filename = "vanity_viking_V1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "bfdce6c0d9e9ca39dbc4705b23163fbf0f8b51d9"
+hash-format = "sha256"
+hash = "8b6a02f4aff744a914f1412f4bca88e15eeaa5cb42ddd4caaceb5a71b5107cd3"
 mode = "metadata:curseforge"
 
 [update]

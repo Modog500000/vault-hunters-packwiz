@@ -3,8 +3,8 @@ filename = "spark_1_18_client_fix-1.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "7600c4295246937544051d87da47d6b068d37fa0"
+hash-format = "sha256"
+hash = "0344fa4a622c5a6af02777c91df4833470290f237bb548d875250afc3980a59f"
 mode = "metadata:curseforge"
 
 [update]

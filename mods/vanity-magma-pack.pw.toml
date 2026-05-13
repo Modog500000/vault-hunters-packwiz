@@ -3,8 +3,8 @@ filename = "vanity_molten_V1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "5499ba74bd79a427ea8118d04768fceb6751a70e"
+hash-format = "sha256"
+hash = "8a6c145b124c6158026853c33c9d95280f73cae2dced50b24d88a71b404f3ebf"
 mode = "metadata:curseforge"
 
 [update]

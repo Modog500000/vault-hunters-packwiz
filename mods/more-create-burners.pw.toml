@@ -3,8 +3,8 @@ filename = "moreburners-1.18.2-0.3.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "06739689a64b28112f53c92b6e41927a355ed7e7"
+hash-format = "sha256"
+hash = "2e47bd526293353819d475027e61657fd7ef8e1102c3a1bee60dd5a31853f230"
 mode = "metadata:curseforge"
 
 [update]

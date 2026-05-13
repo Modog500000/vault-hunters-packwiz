@@ -3,8 +3,8 @@ filename = "architectury-4.12.94-forge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "a6705e4ae7acb91870cdb63bc86dadf3dd97ec08"
+hash-format = "sha256"
+hash = "e5fee3917f1abd665a3a4402358d9e65cd988964c1b099a522baa22056234397"
 mode = "metadata:curseforge"
 
 [update]

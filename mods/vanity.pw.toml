@@ -3,8 +3,8 @@ filename = "vanity-forge-1.0.1+1.18.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f3f7303b2ecd697eb27919cff9cfd6b3d7e5a67c"
+hash-format = "sha256"
+hash = "223a682b379561e6100f1c687f433d6f98816d091ececf3cc233f208489fd143"
 mode = "metadata:curseforge"
 
 [update]

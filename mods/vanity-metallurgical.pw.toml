@@ -3,8 +3,8 @@ filename = "vanity_metallurgical_V1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "496b7420ff737883fe825800288c43d022a4bcaa"
+hash-format = "sha256"
+hash = "88b1f7a336a789043059adc3b20bbdfc10f94cecfdb536c28f43e7d1b96f70c5"
 mode = "metadata:curseforge"
 
 [update]

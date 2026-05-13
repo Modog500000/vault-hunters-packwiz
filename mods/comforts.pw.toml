@@ -3,8 +3,8 @@ filename = "comforts-forge-1.18.2-5.0.0.6.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "738aa237f6b8e82a5b4ad8af9d9e371fbd25eb08"
+hash-format = "sha256"
+hash = "10da8248a7e9440a84394a4b78410ec6ab85d66f521cfc3f87849dfada3a65d7"
 mode = "metadata:curseforge"
 
 [update]

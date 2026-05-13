@@ -3,8 +3,8 @@ filename = "ExtraStorage-1.18.2-2.2.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f0ef3541547cf7a747c48fbd48af28b69fda1647"
+hash-format = "sha256"
+hash = "9335fddc1fe46b3d59808c89bb72f4b518c06e7931d7cdf7e48548afd86b1b4b"
 mode = "metadata:curseforge"
 
 [update]

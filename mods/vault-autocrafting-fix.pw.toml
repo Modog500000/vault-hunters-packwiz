@@ -3,8 +3,8 @@ filename = "vault_autocrafting-1.18.2-3.15.2-1.1.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "40034a9d8a14952eb87883468a18af4c5cc3f9b3"
+hash-format = "sha256"
+hash = "d8c4d4687eeacb3b342267837cb4089a468d1f9217fc11ab331af25f6d1380e9"
 mode = "metadata:curseforge"
 
 [update]

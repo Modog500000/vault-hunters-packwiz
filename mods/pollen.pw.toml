@@ -3,8 +3,8 @@ filename = "pollen-forge-1.6.1+1.18.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "11775c562e920a28ce006b610bfab389473b487a"
+hash-format = "sha256"
+hash = "4ca1ef27803bd2a66dab67cd15519aa761f1558925139d8ee5c3480fb8dbc5d7"
 mode = "metadata:curseforge"
 
 [update]

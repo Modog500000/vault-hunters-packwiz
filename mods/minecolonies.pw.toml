@@ -3,8 +3,8 @@ filename = "minecolonies-1.18.2-1.1.612-BETA.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "9c38a6fdd7057c34d0de26dce1f8fe20e7485b5a"
+hash-format = "sha256"
+hash = "396123da2b58ef53be1da1e7d724cccee7b42224a929cdcc7bd5c160d199d1ef"
 mode = "metadata:curseforge"
 
 [update]

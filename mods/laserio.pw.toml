@@ -3,8 +3,8 @@ filename = "laserio-1.4.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "5dccf69e2b3bf3a19b0e19212d97af17508e1329"
+hash-format = "sha256"
+hash = "5eecb26dfcb6ec5593c39770942643b154f4e9406a54313bd97ec0d21d548121"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "fancymenu_forge_3.7.0_MC_1.18.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "00352348e54d4cd1826891d5dbbb97bca41d33b9"
+hash-format = "sha256"
+hash = "c2be295a8a5c2062563a36ed836e5af6085571294004a48258773c7e9dfc0530"
 mode = "metadata:curseforge"
 
 [update]

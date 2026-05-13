@@ -3,8 +3,8 @@ filename = "sophisticatedvaultupgrades-1.20.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2492200496f1665439752b5ac32c96a7e6dd2fcf"
+hash-format = "sha256"
+hash = "e47306e255f1462650cf95e0abfaf2552dee6819729ef2a4da32c690944c637d"
 mode = "metadata:curseforge"
 
 [update]

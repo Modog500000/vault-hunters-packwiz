@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/cl223EMc/versions/J0jTgCIB/cristellib-forge-1.0.0.jar"
-hash-format = "sha512"
-hash = "1455b474e37622b4b398fc7f62e7c1cc04807590bd1b2e54663ae24d700876d3b2caa4d0e63bb407b1e90b515a10e4a73081e873c865ba9367150c05912290ef"
+hash-format = "sha256"
+hash = "c879f4f503ec120ba8a5a3c8dcff340e1288caf7ccf08d7c4077497af4089623"
 
 [update]
 [update.modrinth]

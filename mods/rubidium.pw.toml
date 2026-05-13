@@ -3,8 +3,8 @@ filename = "rubidium-0.5.6.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "1ce63fa6642a71b2e1b175bbdc0f61ac12669a67"
+hash-format = "sha256"
+hash = "116d428573d4748beba9e1b998cdd1cfcac91636b16ffbc1c98a8b38f1059b23"
 mode = "metadata:curseforge"
 
 [update]

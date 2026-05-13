@@ -3,8 +3,8 @@ filename = "justzoom_forge_2.1.1_MC_1.18.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "241376ad4e535b5b7c92d46848833049bcff9db5"
+hash-format = "sha256"
+hash = "372bd9258e701c6f80f2b6332770bb2b7b47bd4829743a0bd103f4c6786d42c8"
 mode = "metadata:curseforge"
 
 [update]

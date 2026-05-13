@@ -3,8 +3,8 @@ filename = "melody_forge_1.0.1_MC_1.18.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e7834a482324d3a27eacba0fbb419858ed487da6"
+hash-format = "sha256"
+hash = "5029f2936d858bbf776a9bdff61718ff09641a83247a1802d538bd367ecae7cf"
 mode = "metadata:curseforge"
 
 [update]

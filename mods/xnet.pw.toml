@@ -3,8 +3,8 @@ filename = "xnet-1.18-4.0.9.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "5d6d9cbc2991fbc688e68277867ff373f525fbd5"
+hash-format = "sha256"
+hash = "348a65bb5bf2dacfbb610d5ca480297d7a9f12349b4b00efb8c52638f371895a"
 mode = "metadata:curseforge"
 
 [update]

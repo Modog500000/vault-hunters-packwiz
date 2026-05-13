@@ -3,8 +3,8 @@ filename = "balm-3.2.6.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "a0be48540d7d9661db8db54cbc96a94b59793fcb"
+hash-format = "sha256"
+hash = "5e0387007d4f5b5be03eb79f46abdb04a29caac881c8e92bcc4cafbcb1c0a118"
 mode = "metadata:curseforge"
 
 [update]

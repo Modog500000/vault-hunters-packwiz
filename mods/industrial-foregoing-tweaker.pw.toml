@@ -3,8 +3,8 @@ filename = "foregoing_tweaker-1.18-1.1.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2bed60b3bdb9297352c3c9d1943b6be8fc43e5ec"
+hash-format = "sha256"
+hash = "80b95876a03b5dbb7ae01cb462f13a5daae6602ba4699ce0014d5da34551b913"
 mode = "metadata:curseforge"
 
 [update]

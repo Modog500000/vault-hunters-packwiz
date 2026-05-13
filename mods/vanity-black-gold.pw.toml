@@ -3,8 +3,8 @@ filename = "vanity_black_gold_V1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "19ab3dcef4cb108d7b07dc9af1d7000c66197cde"
+hash-format = "sha256"
+hash = "e27dd748cce389d638803f82910d5802263f757f584c0a52207f0e53ce854628"
 mode = "metadata:curseforge"
 
 [update]

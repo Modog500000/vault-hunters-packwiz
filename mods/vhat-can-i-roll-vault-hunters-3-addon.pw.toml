@@ -3,8 +3,8 @@ filename = "vhatcaniroll-1.15.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "58f29452cc6874ce20ca915c0835bb6e0b444d2b"
+hash-format = "sha256"
+hash = "621b22c79025d4f42aaabd92fe563c414a2c6ec806b75a575ae5c61910a79f11"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "multi-piston-1.18.2-1.2.15-ALPHA.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2e4a01496af026ac3504a147fd0ab047362f6044"
+hash-format = "sha256"
+hash = "04f5a21d503e7f69a92f962d625fdb845f5531486d33212646884451e1ff7afe"
 mode = "metadata:curseforge"
 
 [update]

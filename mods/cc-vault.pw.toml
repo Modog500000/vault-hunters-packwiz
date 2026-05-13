@@ -3,8 +3,8 @@ filename = "ccvault-1.2.0-3.19.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "555db635c2ea302b46f24c747b8157bfb3ecbfbc"
+hash-format = "sha256"
+hash = "7cc24cc45f540d951bea2b8d5d57b7b827cde617c63cc02afcb9ac8eed0f4134"
 mode = "metadata:curseforge"
 
 [update]

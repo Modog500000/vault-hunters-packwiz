@@ -3,8 +3,8 @@ filename = "Controlling-forge-1.18.2-9.0+23.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "9f723b4a612ae712cafd9b50e24f38328b12e650"
+hash-format = "sha256"
+hash = "dffc08569ae8e1e339c84762f363a16c06134b428351ba30cb556693c5fbfb35"
 mode = "metadata:curseforge"
 
 [update]

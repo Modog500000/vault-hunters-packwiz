@@ -3,8 +3,8 @@ filename = "buildscape-3.0.2-VH.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "765c86184b2d031fef97533daa970a25a5ffb269"
+hash-format = "sha256"
+hash = "2874a6967e4568e645215db5e2b94a10a5e37bf8870a1e644bb4eac73071bb74"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "vanity_charcutier_V1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "4af32df6aeaa8269c019aab47330cfedd9051aeb"
+hash-format = "sha256"
+hash = "2e3003efcb1aa50f530236f3015db28d7e5fcba15c19a8ed1b1236c40c119bc1"
 mode = "metadata:curseforge"
 
 [update]

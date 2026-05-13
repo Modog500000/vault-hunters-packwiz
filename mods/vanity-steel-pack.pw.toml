@@ -3,8 +3,8 @@ filename = "vanity_steel_V1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d236b5b38bf0ff65dfabf4dc1ac5946bb4575c9a"
+hash-format = "sha256"
+hash = "6da560794483b9745d3ca2961a11fe8ceef58a5a4fe0dc0fdd118a07e28b4a57"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "DarkUtilities-Forge-1.18.2-10.1.7.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ddf00907590bd7d798aa13cc39dee6a7cec4ab74"
+hash-format = "sha256"
+hash = "9f60a84e01fcc7090b3bffde8f901cc78878767ab37d063a67f4be6f982f6eab"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "curios-forge-1.18.2-5.0.9.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "bef5163f8a9b41d072c5e4378d2b15de6cc92baa"
+hash-format = "sha256"
+hash = "327b6a611cdd10be9d789e082cb7c91ef8afa822dcb3daf112aee71012fdfd13"
 mode = "metadata:curseforge"
 
 [update]

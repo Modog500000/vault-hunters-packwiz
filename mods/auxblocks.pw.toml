@@ -3,8 +3,8 @@ filename = "auxiliaryblocks-1.18.2-0.4.6.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "073284bc7ac40a4d760246e8790b829d177496d8"
+hash-format = "sha256"
+hash = "ef50908ce71d73b7e60791b59d8920b9d651fdd78582daa6899625d4217bd034"
 mode = "metadata:curseforge"
 
 [update]

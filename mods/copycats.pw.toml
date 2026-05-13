@@ -3,8 +3,8 @@ filename = "copycats-2.2.2+mc.1.18.2-forge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "08974c30d6b09daef3ae02ac15477db53b5ca921"
+hash-format = "sha256"
+hash = "3bd4c38dc2a5720c94d975162018a2eca321117319e332a17fe3a3dba9418c49"
 mode = "metadata:curseforge"
 
 [update]

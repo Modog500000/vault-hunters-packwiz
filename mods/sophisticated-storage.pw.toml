@@ -3,8 +3,8 @@ filename = "sophisticatedstorage-1.18.2-0.9.8.915.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "12e9de3121a0366f7686b21984ccefeb7ff3ed68"
+hash-format = "sha256"
+hash = "3965b3af65ebd0244ead0bdab23cd3224e41a616b73049d2294053504a452060"
 mode = "metadata:curseforge"
 
 [update]

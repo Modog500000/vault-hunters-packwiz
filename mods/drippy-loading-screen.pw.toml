@@ -3,8 +3,8 @@ filename = "drippyloadingscreen_forge_3.0.12_MC_1.18.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "5fd0b7f647bd4cbe100b4c585a4172ab5e7754f6"
+hash-format = "sha256"
+hash = "b755af38ed79c266dc28c237dbd6bae5efd63cb595e0856e414361287aff4aae"
 mode = "metadata:curseforge"
 
 [update]

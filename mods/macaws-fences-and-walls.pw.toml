@@ -3,8 +3,8 @@ filename = "mcw-fences-1.0.7-mc1.18.2forge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "0d1a06c4e16d5a1ef8e0f8b6e95c8d3180841b51"
+hash-format = "sha256"
+hash = "c9abe3df0cd333fda494126c4ab23a38ddf8477388e947e661ab5db979639c5b"
 mode = "metadata:curseforge"
 
 [update]

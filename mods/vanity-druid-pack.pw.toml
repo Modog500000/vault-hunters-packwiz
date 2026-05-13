@@ -3,8 +3,8 @@ filename = "vanity_druid_V1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f0e28ce8ea1bb4f4f0b9ad50da395ad0a2141aa1"
+hash-format = "sha256"
+hash = "7c844cf7356bd3119278ea2c13713483e89165d72e02f99c79759ca4ad430856"
 mode = "metadata:curseforge"
 
 [update]

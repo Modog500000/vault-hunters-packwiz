@@ -3,8 +3,8 @@ filename = "PackMenu-1.18.2-4.1.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "4a1748b1d65b4b1ba6c443418cbefe9f2e92af04"
+hash-format = "sha256"
+hash = "8ca30068a790b12fc51d1e635750be0a85de134f210a84083867406f6e7de7be"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "deimos-1.18.2-forge-2.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "79a36ffff708a8ae7ffe6437a8ae9b249358ad49"
+hash-format = "sha256"
+hash = "eb8a2f57362f826a546832e997db9f33dfc8279d348188f278d6371969baccd5"
 mode = "metadata:curseforge"
 
 [update]

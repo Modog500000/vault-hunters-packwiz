@@ -3,8 +3,8 @@ filename = "VaultLootBeams-1.18.2-1.0.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "a5726de6fd297649163c583ededa6f1f12312935"
+hash-format = "sha256"
+hash = "ee8f4042e08422127413fe6105f4498d0dfebf5410e610ce4c2669cb766d9be9"
 mode = "metadata:curseforge"
 
 [update]

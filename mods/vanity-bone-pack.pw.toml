@@ -3,8 +3,8 @@ filename = "vanity_bone_V1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "173ff3d569488e1608f64ac643123e2a0f7f36de"
+hash-format = "sha256"
+hash = "aa565ea1b133743f7668c2ce4a8d0b0386c7383793cee5869ef0c2e4d258d1a7"
 mode = "metadata:curseforge"
 
 [update]

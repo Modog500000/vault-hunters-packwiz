@@ -3,8 +3,8 @@ filename = "titanium-1.18.2-3.5.11-47.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e4cb166b3ced399d34607a9d032bb374fe60d7d8"
+hash-format = "sha256"
+hash = "ba108e9745bc0f048eebae11f0c3fcbc1bf4eb40dfa88a8c3ba490a6a1989d70"
 mode = "metadata:curseforge"
 
 [update]

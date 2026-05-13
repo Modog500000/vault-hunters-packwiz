@@ -3,8 +3,8 @@ filename = "cagerium-1.18.2-1.1.6.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "a3c3746f6a30682db529fe7dc52fde5531d3a888"
+hash-format = "sha256"
+hash = "3ff96b66b541be55719b2007ef7b9922959926b526aed9341e8d169e418b70cc"
 mode = "metadata:curseforge"
 
 [update]
