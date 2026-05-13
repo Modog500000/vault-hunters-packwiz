@@ -13521,6 +13521,10 @@ file = "icon.png"
 hash = "e6c49e1dc90885265764d4dca1f911d7222f65ea47b531df4869cb6050e8ec3c"
 
 [[files]]
+file = "mods/BuildersDelight-1.18.2-v.1.0.jar"
+hash = "33f6147c4e1351a563b634ffbda61f9af8187a5b91073787625fcf24d14fb9d1"
+
+[[files]]
 file = "mods/ae2-things-forge.pw.toml"
 hash = "954e95463edeb24b8a13e06940077ce4a0b1e03198f3caf46d9ca20c3ecabe3e"
 metafile = true
@@ -13603,11 +13607,6 @@ metafile = true
 [[files]]
 file = "mods/botany-pots.pw.toml"
 hash = "1131a714354b210c29e78b517d78efc703cc851ebd3493e590172fd5b1867002"
-metafile = true
-
-[[files]]
-file = "mods/builders-delight-forge.pw.toml"
-hash = "514f42f10ec0ca169cc4a600470959357427c4d37bbd7f5422c7b2ba70f8f175"
 metafile = true
 
 [[files]]
@@ -14046,9 +14045,8 @@ hash = "e3b607348fc4084c8aece8cccaa3c58af8d12e518c305bdbe044eabc2bb0b472"
 metafile = true
 
 [[files]]
-file = "mods/neon-craft-ultimate.pw.toml"
-hash = "fc031f56e24dd3d4c1a2dfa3613d9b40ebd5e5f01bb3eb64585626542898bc1d"
-metafile = true
+file = "mods/neoncraft2-2.2.jar"
+hash = "b6f6b55dbe21fc28cc2e8a8b07d48ba3c14738180ebf3a8468b538b51071529e"
 
 [[files]]
 file = "mods/oculus.pw.toml"
