@@ -3,11 +3,11 @@ filename = "RegionsUnexploredForge-0.4.1_1+1.18.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e0043c02e36bf315238b83dad1de291ed6b94c34"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/Tkikq67H/versions/vXPKsf84/RegionsUnexploredForge-0.4.1_1%2B1.18.2.jar"
+hash-format = "sha512"
+hash = "a5a40a057c5d20c26ef07d4c2a4737c8c576db3654550c42f1317520bfb0f50f8ece7ca920a0e34f804db8bee1558cbad3a620c1c3c7e02ae3c2e6afb1495e2c"
 
 [update]
-[update.curseforge]
-file-id = 4554212
-project-id = 659110
+[update.modrinth]
+mod-id = "Tkikq67H"
+version = "vXPKsf84"

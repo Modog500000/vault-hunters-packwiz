@@ -1,0 +1,13 @@
+name = "Vanity: Charcutier"
+filename = "vanity_charcutier_V1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4af32df6aeaa8269c019aab47330cfedd9051aeb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4284925
+project-id = 784829

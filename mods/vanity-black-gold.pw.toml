@@ -1,0 +1,13 @@
+name = "Vanity: Black Gold Pack"
+filename = "vanity_black_gold_V1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "19ab3dcef4cb108d7b07dc9af1d7000c66197cde"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4435754
+project-id = 837306

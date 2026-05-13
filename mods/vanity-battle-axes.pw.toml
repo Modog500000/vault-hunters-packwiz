@@ -1,0 +1,13 @@
+name = "Vanity: Farcr's Battle Axes [Discontinued]"
+filename = "Farcr's_Battle_Axes_V1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "64ff3bc62a427619c2893cd9a38b061fdaa8d661"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4287878
+project-id = 784647

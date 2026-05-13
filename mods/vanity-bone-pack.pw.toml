@@ -1,0 +1,13 @@
+name = "Vanity: Bone Pack"
+filename = "vanity_bone_V1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "173ff3d569488e1608f64ac643123e2a0f7f36de"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4436970
+project-id = 837615

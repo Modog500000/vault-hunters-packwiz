@@ -1,5 +1,11 @@
 {
   "styles": {
+    "Computer Craft": {
+      "x": 10,
+      "y": 160,
+      "frameType": "RECTANGULAR",
+      "icon": "vault:gui/researches/xnet"
+    },
     "Refined Storage": {
       "x": 60,
       "y": 40,
@@ -163,13 +169,13 @@
       "icon": "the_vault:gui/researches/mining_gadgets"
     },
     "Digital Miner": {
-      "x": 35,
+      "x": 60,
       "y": 160,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/digital_miner"
     },
     "Entangled": {
-      "x": 85,
+      "x": 110,
       "y": 160,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/entangled"

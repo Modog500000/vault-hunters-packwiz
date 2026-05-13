@@ -1,0 +1,13 @@
+name = "Vanity: Steel Pack"
+filename = "vanity_steel_V1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d236b5b38bf0ff65dfabf4dc1ac5946bb4575c9a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4435760
+project-id = 837310

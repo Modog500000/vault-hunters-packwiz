@@ -1,0 +1,13 @@
+name = "Vanity: Metallurgical"
+filename = "vanity_metallurgical_V1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "496b7420ff737883fe825800288c43d022a4bcaa"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4284926
+project-id = 784825

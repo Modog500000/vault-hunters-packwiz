@@ -13014,11 +13014,11 @@ hash = "6d5e83d7eecc0ffaf91e7ed5a279aff454cb3367391c0af1df6b1d3c34bc68f0"
 
 [[files]]
 file = "config/the_vault/researches.json"
-hash = "cbcade0ddbcbca4e1f471ff98c033e903a1369295a446fcae8bf20c55f7dd53c"
+hash = "c399d9f6230bdfca3906f481489d0894c7ffa9852ec43730d9098c356b9b825d"
 
 [[files]]
 file = "config/the_vault/researches_groups.json"
-hash = "1bf0e8fdfa2aae0d6e780f3b1cbc969067ad278b1ba0fbcb67de9de651585fbc"
+hash = "3a113ed8b7dced2818a897057bd0b3f883d996445ff88bfbc8c3b1f77af5492b"
 
 [[files]]
 file = "config/the_vault/researches_groups_styles.json"
@@ -13026,7 +13026,7 @@ hash = "ecfb62354d685497fa46f648b1fc38862a6b46fdcaf6a35f4924a7ec47301645"
 
 [[files]]
 file = "config/the_vault/researches_gui_styles.json"
-hash = "ad0d82934eedca9876acc9b4138640b1959ef846705e5910e652868d3822ace8"
+hash = "283c1f5b9d5f7ead3a0cc4bfb8baffe287cee95e7f470f88c95b7de488c42394"
 
 [[files]]
 file = "config/the_vault/royale_loot.json"
@@ -13586,6 +13586,11 @@ hash = "00706383801612c2cce06c29e64daa0ad83ba2d71cc61b80537107844f40e8b3"
 metafile = true
 
 [[files]]
+file = "mods/blockui.pw.toml"
+hash = "328e8abf27b75afab53e475fdbba4d5aeceb0740306cdac319322c6786d509fb"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "1d7f95592de63e85db46a17cb90c0386b9810954ae55dea2da7ba6291db0cb4d"
 metafile = true
@@ -13626,8 +13631,23 @@ hash = "06fadd1cf6120d4c660bf130cc8e3f4c595d2b8471d2c8d860229df475ff1a18"
 metafile = true
 
 [[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "94456dbde36df2b663f2c154b996a5449f9a810f1312733ac30d3bd3258f81c3"
+metafile = true
+
+[[files]]
+file = "mods/cc-vault.pw.toml"
+hash = "8bbbf68320eba0f1fa005a5320bca1acec0ac17c0f5ecd7d71e14cea5352a3ab"
+metafile = true
+
+[[files]]
 file = "mods/chunky-mcchunkface.pw.toml"
 hash = "80fc21b16eee6b8ec55320b3eac201e147b5ae7ca43b7aba57c4126e068149e1"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "0b84b5f27b62c6c38c9ad2d7036ddb15a119f9eace158a6958c3c0f7741bfc50"
 metafile = true
 
 [[files]]
@@ -13658,6 +13678,11 @@ metafile = true
 [[files]]
 file = "mods/compressium.pw.toml"
 hash = "d8f0f75951f5dbcdb0248a7862bec0810125f6b23e9551a4d8e3e56f9a6dde27"
+metafile = true
+
+[[files]]
+file = "mods/configured.pw.toml"
+hash = "d647c96a37237cca3668cff8e0467a411e25eb783a9ce7c7d05a414a98da986c"
 metafile = true
 
 [[files]]
@@ -13712,7 +13737,7 @@ metafile = true
 
 [[files]]
 file = "mods/cristel-lib.pw.toml"
-hash = "201fbdb672e83a6e12269409aae0445e14f65d2def938668269c5bcf6a2f62da"
+hash = "7482908b3c08a97bf4ed8fe9b1638723fce6691f9902925b9a49601ed407946a"
 metafile = true
 
 [[files]]
@@ -13743,6 +13768,11 @@ metafile = true
 [[files]]
 file = "mods/deimos-fabric-forge-neoforge.pw.toml"
 hash = "1d812a008d49564a5b395c74348cd2694eba390442a4d343dc9d1b8638d76b07"
+metafile = true
+
+[[files]]
+file = "mods/domum-ornamentum.pw.toml"
+hash = "605f32ad7d8999c3bbd4af14926ef0f8566142b73d4d0e8a732e6eef93a95ac6"
 metafile = true
 
 [[files]]
@@ -13971,6 +14001,11 @@ hash = "be9967977aab8177f61cca46e4cf0470aca671cbf9d327e49ba8b9d1534ebc8a"
 metafile = true
 
 [[files]]
+file = "mods/minecolonies.pw.toml"
+hash = "f7be35d9f697f26cc74738b5b11b5bb0e317c170db5a98669bd1c5a075da7d4b"
+metafile = true
+
+[[files]]
 file = "mods/mining-gadgets.pw.toml"
 hash = "a2f162049ca146326010a2a500f59d3ee62264259af43274aba93da55a04cf08"
 metafile = true
@@ -14001,6 +14036,11 @@ hash = "05801be36fac9a5755a12304a9ea73784ef6654de68c7e080fafd5d07029d124"
 metafile = true
 
 [[files]]
+file = "mods/multi-piston.pw.toml"
+hash = "6c95a0ebe41226922cf1cc6cc5f90911deb2e3e5759d35c6f61746968f6742a7"
+metafile = true
+
+[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "e3b607348fc4084c8aece8cccaa3c58af8d12e518c305bdbe044eabc2bb0b472"
 metafile = true
@@ -14018,6 +14058,11 @@ metafile = true
 [[files]]
 file = "mods/open-loader.pw.toml"
 hash = "3572115ea9aaec0360f662d919366d7d70be7d0a6d0169bfff05b781dda3899f"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "c275633a7319da2b5dc6536b873af407e1d5de6e5d9d00f0fcfa130e0346dbd5"
 metafile = true
 
 [[files]]
@@ -14053,6 +14098,11 @@ metafile = true
 [[files]]
 file = "mods/pneumaticcraft-repressurized.pw.toml"
 hash = "565ee4d42c9a42a5e77559c91427771f51114ae33b0e9ca4684329710f7646c7"
+metafile = true
+
+[[files]]
+file = "mods/pollen.pw.toml"
+hash = "234a07addb29fb16503b9e45c15feacfe1dbd7604788d72e3930aefad352f141"
 metafile = true
 
 [[files]]
@@ -14097,7 +14147,7 @@ metafile = true
 
 [[files]]
 file = "mods/regions-unexplored.pw.toml"
-hash = "aaee0b82d69eefd713b2ecda572107acdb49e81b1beeb9248af3b9e34ff984d4"
+hash = "eefb3aaa2fad04756b31253b82ac1495ce5c85324d9a6e404f819fc40f0c394f"
 metafile = true
 
 [[files]]
@@ -14191,6 +14241,11 @@ hash = "67bcff9d20e71ad75a16a3de2c07652fa4041a5ed68f076592ee8f44c7c7ae8c"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-vault-upgrades.pw.toml"
+hash = "f92d7643ba742684ba033af8426cb3b30e12c4c2c7b00840c77e7ffb863129fd"
+metafile = true
+
+[[files]]
 file = "mods/spark-1-18-client-profiling-fix.pw.toml"
 hash = "894f1a6d9786b617b95023df59b3468893cdecdbfe87ecf51b9278ff5b623b90"
 metafile = true
@@ -14198,6 +14253,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "876452c253d68cd71df35dfcb9dd4438ebb5c2470c09b01ed19a16fd37f46436"
+metafile = true
+
+[[files]]
+file = "mods/structurize.pw.toml"
+hash = "e7c98953cef9e9fd975c71acd8d6766b2ac940c2536b777ac09c0652efd2df2c"
 metafile = true
 
 [[files]]
@@ -14223,6 +14283,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "526f1411f2287247b09ebe85ce4ba29daaad56f1a817d163ec194f78b11bb8ef"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "6c0383df1c3295ea0870ef1d0fa6c6d7d12362c3fb20ac8758dff5fa9e8f9472"
 metafile = true
 
 [[files]]
@@ -14261,8 +14326,78 @@ hash = "7487bc2e3dc8cc4e90bc34f3e0ae013b588c3b1414c9328c0e031b74b8ca6f92"
 metafile = true
 
 [[files]]
+file = "mods/vanity-battle-axes.pw.toml"
+hash = "fea470fa76010a4416450f1eafae65610e35362d48e13a58ef85e79fbbf35189"
+metafile = true
+
+[[files]]
+file = "mods/vanity-black-gold.pw.toml"
+hash = "d1526a5f7a155d648fe556c2076e9062fb8a61d8f8461f2fa09958f9c1ff5587"
+metafile = true
+
+[[files]]
+file = "mods/vanity-bone-pack.pw.toml"
+hash = "2ef267b8714911f70bf52e6e36ee82210e48a481a24cacf816fd2c6e79c40d4c"
+metafile = true
+
+[[files]]
+file = "mods/vanity-charcutier.pw.toml"
+hash = "bb039dc39cd2699f586c37ebbc268b0f80c1da8fa9f719eb20172496c07c162d"
+metafile = true
+
+[[files]]
+file = "mods/vanity-druid-pack.pw.toml"
+hash = "f530157f448e723a0868ebe5f2c9c051e40f91827cc69c61eb98b8bbdf85b7be"
+metafile = true
+
+[[files]]
+file = "mods/vanity-katanas.pw.toml"
+hash = "5bde356eec5344fdfd5f504d60d581b78eb152399397352fd3da64e8c1820eb2"
+metafile = true
+
+[[files]]
+file = "mods/vanity-magma-pack.pw.toml"
+hash = "59870cf0425236782a8785b4ae962c5aac7696cd9bb7b1c1e6c71108e330ab74"
+metafile = true
+
+[[files]]
+file = "mods/vanity-metallurgical.pw.toml"
+hash = "dc24ab8bc0cead68653c885c7ba6cf142649519580519b6a1cc74680e5e8e650"
+metafile = true
+
+[[files]]
+file = "mods/vanity-spartan-pack.pw.toml"
+hash = "129bd4242bee254856227d076f27331d4fd8ae5eecec12650b37c50dd27a1105"
+metafile = true
+
+[[files]]
+file = "mods/vanity-steel-pack.pw.toml"
+hash = "f9afe1a9cae5d520be9b2a3129c8924a038ea433ae3c3a53c8e0016ab3d76629"
+metafile = true
+
+[[files]]
+file = "mods/vanity-viking.pw.toml"
+hash = "4f03cdf324c245b14445376a946e6c3afd6f41d238830aa13d97e1463e2b44bf"
+metafile = true
+
+[[files]]
+file = "mods/vanity.pw.toml"
+hash = "d423c514b5a863b871c409411c42db124154505c42a7a610db32d299c9b1e79b"
+metafile = true
+
+[[files]]
+file = "mods/vault-autocrafting-fix.pw.toml"
+hash = "659d655b17d6f8ff19c8b6cf4adbafa3a28c7c2fab95e7eba9b98449a4e2e5e3"
+metafile = true
+
+[[files]]
 file = "mods/vault-filters.pw.toml"
 hash = "6e6250e0cafe53cb38e46ff3311c86acfab712f1d9ed3b189cfe45cc22fe9358"
+metafile = true
+
+[[files]]
+file = "mods/vault-hunters-api.pw.toml"
+hash = "be0aee694f659f81e0ff8d6e8fc7b95420cce046e08bf9c93473e6f83a28a976"
 metafile = true
 
 [[files]]
@@ -14278,6 +14413,11 @@ metafile = true
 [[files]]
 file = "mods/vaultlootbeams.pw.toml"
 hash = "a8823a395d92d51f7ed98986b5f3cada0d4a10e36fe0bb829dc7c1a6bdb2acb6"
+metafile = true
+
+[[files]]
+file = "mods/vhat-can-i-roll-vault-hunters-3-addon.pw.toml"
+hash = "6af1812f033528c272ecd1b664be6693c89e18e2b8de2740f171edd54f381479"
 metafile = true
 
 [[files]]
@@ -14303,6 +14443,66 @@ metafile = true
 [[files]]
 file = "mods/xnet.pw.toml"
 hash = "59f57c0dc8838a3111cfb0c39aada7aeadf5e65046e64ea52a906d5b7d7fd9b2"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "5e3507c24a5e95a9f73a078fca58abda0eea4e2404c3ef5d8c2862896df70fa1"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-desert-temples.pw.toml"
+hash = "09ea95d2af401a1539e0d2e6a4b1e1692ff4c888eccd0d4e1e1cbb8d10af783c"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons.pw.toml"
+hash = "f3cee28a1cfe67a5996c933cbc157551f93f21513f17130c691a5ab9729746b7"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-end-island.pw.toml"
+hash = "c86d87ebf6567a4ce9262c4ffc5e15f9aa35099577654ca3369f0b8c10044d6e"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts-forge.pw.toml"
+hash = "10697c471dc17b77ab40a35388b070d8d060061512528f0cf547bfbf3f11a528"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-nether-fortresses.pw.toml"
+hash = "2dc4660e1fdd4704e11b08478b147f5dd5bc50135a44a9dddf097e5edd07b50f"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-ocean-monuments.pw.toml"
+hash = "c6e01db23f886883d1a3483b96e734e129c37cdbaa27069ce8fc9a5cb4e5dcae"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-strongholds.pw.toml"
+hash = "3127a661dd7c2d8f0eaaa4f06bfb77b9ac396a6d7271faea8545dd2b50fba9a7"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-witch-huts.pw.toml"
+hash = "3fb41c72ec9fc69a49aa83a2c8c5535aee70dce6ca256fb1d7b12f3afe280af5"
+metafile = true
+
+[[files]]
+file = "mods/yungs-bridges.pw.toml"
+hash = "cad3496f2bbd56fc05c4eacef4cb11731e97313d2c8c7a937ae7d4fcd8a2df84"
+metafile = true
+
+[[files]]
+file = "mods/yungs-cave-biomes.pw.toml"
+hash = "e557041673b5c856ab59f01a247cdb72bd3fd69df127697e8940bf02acf4b597"
+metafile = true
+
+[[files]]
+file = "mods/yungs-extras.pw.toml"
+hash = "2089387b3a1db8e588b746ad395e398844da6dc6be306d99aeacef2b501bda82"
 metafile = true
 
 [[files]]
@@ -14364,6 +14564,10 @@ hash = "093848ed1eb9ea396e6fba5fa3424b9d487841c71c978f696b08a1cecce909a1"
 [[files]]
 file = "packmenu/resources/assets/packmenu/textures/gui/logo.png"
 hash = "4f96932a7bfd9f0196947b3680f77720980088e9f9b5335e7e1583b77186ab29"
+
+[[files]]
+file = "packmenu/resources/assets/packmenu/textures/gui/researches/cc.png"
+hash = "0379421569fb6c456b948cac9941658f437bc1e0d7a650030f5129acce9b1910"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/textures/gui/vh_button_accessibility.png"

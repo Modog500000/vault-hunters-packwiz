@@ -3,11 +3,11 @@ filename = "cristellib-forge-1.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "9b86685c9fa6717b758a5acc84e3165a98fb2397"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/cl223EMc/versions/J0jTgCIB/cristellib-forge-1.0.0.jar"
+hash-format = "sha512"
+hash = "1455b474e37622b4b398fc7f62e7c1cc04807590bd1b2e54663ae24d700876d3b2caa4d0e63bb407b1e90b515a10e4a73081e873c865ba9367150c05912290ef"
 
 [update]
-[update.curseforge]
-file-id = 4531755
-project-id = 856996
+[update.modrinth]
+mod-id = "cl223EMc"
+version = "J0jTgCIB"
