@@ -13450,7 +13450,7 @@ hash = "8aaf62e64c9d449660c4ad8ff0bed8e4a1c24d7b0bda5adda4aa1c19fa4ec45c"
 
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
-hash = "ea7fd75d6344f79a938c36ce840f581e8e7d759ba0899849012abfc1ec28e51e"
+hash = "4c30e1b8e8c30526cd10ce21a2a5c44d1540568597246918115657ba1262ef79"
 
 [[files]]
 file = "config/waddles-common.toml"
