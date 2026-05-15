@@ -13918,7 +13918,7 @@ metafile = true
 
 [[files]]
 file = "mods/legendary-tooltips.pw.toml"
-hash = "dae534556944e15110e2731c7079d4a449dc6996fdb5741acca63506e6db3077"
+hash = "a5471c4b72887cee779d887dab042f95b48d7267971e40e24a23bea960212d49"
 metafile = true
 
 [[files]]
@@ -14042,7 +14042,7 @@ hash = "b6f6b55dbe21fc28cc2e8a8b07d48ba3c14738180ebf3a8468b538b51071529e"
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "7b2591191b9a05e9e556ab107be39bd25cc2ec50604f335bae7a55f46843ce73"
+hash = "be0ac3160517a9b416e616106a290e171cd743e8b502aa6dbdb69c97a8d514d5"
 metafile = true
 
 [[files]]
