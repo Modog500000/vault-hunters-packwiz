@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 8037625
 project-id = 508933
+
+[option]
+optional = true
+default = true
+description = "This can be VERY laggy if you have a low amount of ram/an outdated gpu, however can be configured to be less so. This mod adds a Level of Detail allowing you to 'see farther'"
