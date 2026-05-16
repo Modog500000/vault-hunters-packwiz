@@ -13922,6 +13922,11 @@ hash = "ca7b09716d6780403359de0da708f58af4be6d86feef502c570fb1dc61154e37"
 metafile = true
 
 [[files]]
+file = "mods/lazy-dfu-forge.pw.toml"
+hash = "ebb19e9c7a826f2d820671cdb8fc3aebb45cccf0751235b46a20701b9a6772b4"
+metafile = true
+
+[[files]]
 file = "mods/legendary-tooltips.pw.toml"
 hash = "a5471c4b72887cee779d887dab042f95b48d7267971e40e24a23bea960212d49"
 metafile = true
@@ -14258,6 +14263,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "4b82cb4a3aefface082aa139d7ac9824524b05a4b97a3f479a27ce1bfbae3c13"
+metafile = true
+
+[[files]]
+file = "mods/starlight-forge.pw.toml"
+hash = "cf0274e0db473a80ea8d8442362d3e7e76639018504b9ff37fa61aa6044b8a60"
 metafile = true
 
 [[files]]
