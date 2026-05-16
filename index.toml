@@ -13927,6 +13927,11 @@ hash = "f29ce175d4dd175a2c359d63b0c322df0380f1d895d1c7714b2051a4b2e81c1e"
 metafile = true
 
 [[files]]
+file = "mods/longer-login-times.pw.toml"
+hash = "29c30c9c3187ba9f19c30cca9b7bbd0e3f72ded8fbbd1b9e11fbccd62615be4d"
+metafile = true
+
+[[files]]
 file = "mods/macaws-bridges.pw.toml"
 hash = "452673eb7c074e3d3af64765b1bf19dde95b07f8efd87ca8d7cf94db8cefff21"
 metafile = true
