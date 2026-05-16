@@ -13677,6 +13677,11 @@ hash = "264525ca2db6f620dc9e46e8736f885c27789e728fd05b0a186a6eead840f568"
 metafile = true
 
 [[files]]
+file = "mods/connectivity.pw.toml"
+hash = "90cc363d5878dd667e54a656a4f0d87b5ccead681e98c5d570d1705522cbcc69"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "37f3cf743b4b3f40a9fa5e93f8158210dfb025a3ed3990e55b76c2d16a33fef5"
 metafile = true
@@ -14009,6 +14014,11 @@ metafile = true
 [[files]]
 file = "mods/mmmmmmmmmmmm.pw.toml"
 hash = "74f79f50ee3dad764967436f3cfc40716918a66870443661cd277aad7a446274"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "e8ea1ed24c1b1acbf78409861fe031e5b65fb1164f9ba3bd73973a863432ba5a"
 metafile = true
 
 [[files]]
