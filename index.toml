@@ -13450,7 +13450,7 @@ hash = "8aaf62e64c9d449660c4ad8ff0bed8e4a1c24d7b0bda5adda4aa1c19fa4ec45c"
 
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
-hash = "659225476d0348bd2ad0adf733e3cd4a4ca8e37a5bdde4c27e252ca9c9a57a45"
+hash = "46d5ac08ca15e59794a7d81263cf54f42acc3bafff7cd95d4502efc13872aecf"
 
 [[files]]
 file = "config/waddles-common.toml"
@@ -13764,6 +13764,11 @@ metafile = true
 [[files]]
 file = "mods/deimos-fabric-forge-neoforge.pw.toml"
 hash = "e29ea6554ef3f59883b6284f5c5d788c3e37d754d05066f29cab3a9c822f0286"
+metafile = true
+
+[[files]]
+file = "mods/distant-horizons.pw.toml"
+hash = "89087e89fdd9835c71cba4333432336329546881ad8364a467bdb6ebc3d2ae09"
 metafile = true
 
 [[files]]
