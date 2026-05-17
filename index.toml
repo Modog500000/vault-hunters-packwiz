@@ -13862,6 +13862,11 @@ hash = "f8e6353bdbbfe72ec0aa9ae5fcbc606dcc2cb64a4ca6535e332a121d6cbcc479"
 metafile = true
 
 [[files]]
+file = "mods/iris-flywheel-compat.pw.toml"
+hash = "8501d1fa55ba09fb97124bec94be30c0be415187cb55d2a7bdbeb4cf4482bb7f"
+metafile = true
+
+[[files]]
 file = "mods/iron-furnaces.pw.toml"
 hash = "9c4f848693aa4a87533b8c7754029324ebd117ff18bc078e8163c4fbbae6c4b4"
 metafile = true
