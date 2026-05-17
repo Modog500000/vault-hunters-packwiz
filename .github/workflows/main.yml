@@ -37,6 +37,7 @@ jobs:
       - name: Prepare file
         run: |
           mkdir _site
+          rsync -av --exclude='_site' --exclude='.git' --exclude='.github' ./ _site/
           cp modpack.zip _site/modpack.zip 
 
       - name: Upload artifact
