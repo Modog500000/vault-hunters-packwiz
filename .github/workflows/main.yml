@@ -24,7 +24,7 @@ jobs:
           go-version: 'stable'
 
       - name: Install packwiz
-        run: go install ://github.com
+        run: go install github.com/packwiz/packwiz@latest
 
       - name: Refresh and Export
         run: |
