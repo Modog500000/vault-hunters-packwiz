@@ -15045,6 +15045,10 @@ file = "scripts/simple_lights.zs"
 hash = "1f1795589bf94b760d1626cf8889e71c14454add0984de9cac7645677659bd7b"
 
 [[files]]
+file = "servers.dat"
+hash = "92d6dc67167fd79497c2fa1d6a3f1a0a4927dce89d9108b648de00021d29912b"
+
+[[files]]
 file = "shaderpacks/ComplementaryiskallShaders.zip"
 hash = "60f5bae9eefc115904a93afe495ba4f2f38db39e4fab2a384be392c490e85782"
 
